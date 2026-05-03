@@ -1,0 +1,95 @@
+/*About page*/
+h1 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+}
+
+.about-images {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+/*menu-products*/
+.menu-images {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+/*Index page*/
+.nav-bar {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+    gap: 20px;
+    padding: 10px 10px 10px 10px;
+    justify-content: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+
+/*gallery*/
+.gallery-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.gallery-images img {
+    width: 250px;
+    height: auto;
+    border: 3px solid black;
+
+}
+
+/*Contact*/
+.contact-info {
+    background-color: lightpink;
+    gap: 20px;
+    padding: 1px 1px 1px 1px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.contact-form {
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+    background-color: lightpink;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-family: 'Franklin Gothic light', 'Arial Narrow', Arial, sans-serif;
+    font-weight: light;
+}
